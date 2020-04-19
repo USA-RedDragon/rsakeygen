@@ -5,3 +5,9 @@ rsakeygen.iml
 /rsapub.toml
 /log.err
 /src/META-INF/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
